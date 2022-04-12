@@ -29,5 +29,5 @@ export const Default = Template.bind({});
 
 export const Error = Template.bind({});
 Error.args = {
-  error: 'Something',
+  error: 'Oops something went wrong ...',
 };
